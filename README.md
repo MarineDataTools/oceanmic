@@ -1,2 +1,2 @@
-# octt
-Ocean Turbulence Toolbox
+# Oceanmic
+Ocean Microstructure Turbulence Toolbox
